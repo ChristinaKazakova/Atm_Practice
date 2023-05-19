@@ -1,6 +1,7 @@
 package core;
 
-public class deposit{
-  //for depositing
-  
+public class Deposit {
+    //deposit
+    //...
+
 }
